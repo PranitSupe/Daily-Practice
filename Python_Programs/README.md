@@ -3,18 +3,9 @@
 
 ## 🏷️ Badges
 
-![GitHub stars](https://img.shields.io/github/stars/PranitSupe/python-programs?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/PranitSupe/python-programs?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/PranitSupe/python-programs?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/PranitSupe/python-programs?style=for-the-badge)
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
-
 ![Daily Practice](https://img.shields.io/badge/Daily-Practice-success?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blueviolet?style=for-the-badge)
 
 Welcome to my Python practice repository!  
 This repository contains **daily Python programs** from **basic to advanced level** to improve programming skills and logical thinking.
