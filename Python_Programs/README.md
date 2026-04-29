@@ -3,10 +3,10 @@
 
 ## 🏷️ Badges
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/python-programs?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/python-programs?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/python-programs?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/python-programs?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/PranitSupe/python-programs?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/PranitSupe/python-programs?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/PranitSupe/python-programs?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/PranitSupe/python-programs?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
